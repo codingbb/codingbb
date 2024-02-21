@@ -2,6 +2,7 @@
 ![codingbb's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbb&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbb)](https://github.com/anuraghazra/github-readme-stats)
+
 <span>
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width=30" /> 내가 지금 배우는 ...</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,13 +21,11 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  </span>
  <br>
-  <br>
   <span>
  <h3>:컴퓨터: 내가 지금까지 사용해본 ...</h3>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </span>
-<br>
 <br>
 <h3>:메모: 내가 작성하고 있는 블로그</h3>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
